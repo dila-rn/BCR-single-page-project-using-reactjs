@@ -1,6 +1,6 @@
 {
     "rewrites": [
-      {"source": "/cars", "destination": "https://bcr-single-page-project.vercel.app/cars"}
+      {"source": "/cars", "destination": "/"}
     ]
   }
   
